@@ -8,7 +8,7 @@ django-classy-tags==0.3.4.1
 django-cms==2.2
 #django-filer==0.9a1
 -e git+https://github.com/stefanfoulis/django-filer#egg=django-filer
--e git+https://github.com/philomat/django-form-designer.git#egg=django-form-designer
+-e git+https://bitbucket.org/LnLLabs/django-form-designer#egg=django-form-designer
 django-missing==0.1
 django-mptt==0.4.2
 django-picklefield==0.1.9
