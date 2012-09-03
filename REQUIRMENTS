@@ -6,7 +6,8 @@ cmsplugin-filer==0.8.0
 django-appconf==0.4.1
 django-classy-tags==0.3.4.1
 django-cms==2.2
-django-filer==0.9a1
+#django-filer==0.9a1
+-e https://github.com/stefanfoulis/django-filer
 django-form-designer==0.1a8
 django-missing==0.1
 django-mptt==0.4.2
