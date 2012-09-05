@@ -13,3 +13,6 @@ sys.path.insert(1, PROJECT_ROOT)
 # and it will attempt to override those defaults by importing etc.django.local,
 # which could be a symbolic link to your custom, version-controlled settings.
 from etc.django.common import *
+
+DEBUG = True
+TEMPLATE_DEBUG = True
